@@ -1,90 +1,90 @@
-<!-- ======================= HEADER ======================= -->
-<h1 align="center">Hey 👋, I'm Hammad Ibrahim</h1>
-<h3 align="center">Software Engineer | DevOps Practitioner | Cloud Builder ☁️</h3>
+<!-- 🌌 HEADER -->
+<h1 align="center">Hi 👋, I'm Hammad Ibrahim</h1>
+<h3 align="center">Software Engineer | DevOps Enthusiast | Building Scalable Cloud-Ready Systems ☁️</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Software%20Engineering-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Egypt-%23ffcb05?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-Backend%20Engineering%20(Meta)-blue?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=500&lines=Software+Engineer+on+a+DevOps+Path;Designing+Scalable+Microservices;Building+CI%2FCD+Pipelines+%26+Automation;Deploying+to+AWS+%7C+GCP+%7C+Kubernetes" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
+### 🚀 About Me
 
-- 🎯 Currently diving deep into **Backend Engineering with Meta**, focusing on **system architecture & microservices design** to build scalable apps.  
-- 🔧 Applying full **DevOps lifecycle concepts** — from code to deployment:
-  - **12-Factor App principles**  
-  - **Microservices architecture**  
-  - **CI/CD pipelines with Jenkins & GitHub Actions**  
-  - **Containerization with Docker**  
-  - **Orchestration using Kubernetes**  
-  - **Deployment to AWS & GCP (EC2, GKE, Nginx, etc.)**  
-  - **Monitoring, automation, and log management**  
-  - **Security patching, testing & scalability**
-- 🧠 Blending **Software Engineering** and **Cloud DevOps** to understand and automate the *entire* software delivery process.
-- 💬 Ask me about **Python, Flask/Django, Docker, Kubernetes, Ansible, Terraform, Jenkins, or CI/CD Automation.**
-- 📫 Reach me at **hammad.ibrahim21994@gmail.com**  
+- 🎓 Currently pursuing **Backend Engineering Specialization by Meta** to master **application design & architecture**
+- 🧠 Applying **12-Factor App principles**, **Microservices architecture**, and **clean codebase** design
+- 🐳 Containerizing everything with **Docker** and automating pipelines with **Jenkins CI/CD**
+- ☁️ Deploying to **AWS**, **GCP**, and **Nginx/Kubernetes** environments
+- 🧩 Practicing **observability, logging, security patching, and system scalability**
+- 💬 I believe DevOps = *Software Engineering + Automation + Continuous Learning*
+- 📫 Reach me at **hammad.ibrahim21994@gmail.com**
+- 🌐 All my projects → [github.com/hammad-ibrahim](https://github.com/hammad-ibrahim)
 
 ---
 
-## 🌐 Connect With Me  
+### 💡 Current Focus
+
+> **“Building backend systems that scale — and automating everything around them.”**
+
+🧱 Microservices Design  
+⚙️ CI/CD with Jenkins & GitHub Actions  
+🚀 Deployment on AWS, GCP & Dockerized Environments  
+🔍 Monitoring, Logs, and Security Automation  
+📈 Application Scalability & Fault Tolerance  
+
+---
+
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://twitter.com/dev_hammad_ops" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hammad-ibrahim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/wd_hammad994" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,js,bootstrap,nginx,aws,gcp,docker,ansible,terraform,kubernetes,jenkins,linux,git,github,vscode,postgresql,mysql,mongodb,redis" />
 </p>
 
 ---
 
-## 🧠 Tech Stack & Tools  
+### 🌈 Connect with Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,js,html,css,bootstrap,nginx,aws,gcp,docker,kubernetes,jenkins,ansible,terraform,git,github,linux,mysql,postgresql,mongodb,redis,vscode,bash" />
+  <a href="https://twitter.com/dev_hammad_ops" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hammad-ibrahim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/wd_hammad994" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Insights  
+### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hammad-ibrahim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-ibrahim&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hammad-ibrahim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-ibrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammad-ibrahim&theme=tokyonight&row=1&margin-w=10&no-frame=true" alt="Trophies"/>
-</p>
-
----
-
-## ☁️ Cloud & DevOps Focus  
-
-| Area | Focus |
-|------|--------|
-| **Infrastructure as Code** | Terraform, Ansible |
-| **CI/CD Automation** | Jenkins, GitHub Actions |
-| **Containers & Orchestration** | Docker, Kubernetes |
-| **Monitoring & Logging** | Prometheus, Grafana, Loki |
-| **Cloud Providers** | AWS, GCP |
-| **App Design** | Microservices, 12-Factor, REST APIs |
-| **Scaling & Security** | Auto-scaling, Patch Management, Alerts |
-
----
-
-## 🧩 Philosophy  
-
-> “I don’t just deploy apps — I design systems that can heal, scale, and evolve automatically.”  
->
-> Building a strong foundation in **Software Engineering** helps me bring **DevOps principles to life**, ensuring every piece of code can go from idea → container → cloud → scale — efficiently and reliably.  
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammad-ibrahim&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hammad-ibrahim&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophy" />
 </p>
 
 ---
 
-⭐ *Fail fast. Learn faster. Automate everything.*
+### 📈 Activity Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammad-ibrahim&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+> “The best DevOps engineers are just software engineers who learned to automate their pain.” 😄  
+> Combining **Software Engineering** + **DevOps** = a powerful mindset for modern cloud development.
+
+---
+
+### 💬 Quote I Live By
+
+⭐ *"Fail Fast, Learn Faster — Build, Break, and Rebuild Better."*
